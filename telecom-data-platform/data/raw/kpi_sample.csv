@@ -1,3 +1,0 @@
-timestamp,station_code,cell_code,total_call_attempt,connected_call,miss_call,silence_call,drop_call
-2026-01-01 08:00:00,STA001,CELL001,100,95,3,1,2
-2026-01-01 08:00:00,STA002,CELL002,120,114,4,2,1
