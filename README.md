@@ -1,1 +1,1 @@
-# telecom-data-platform
+# Telecom Data Platform
