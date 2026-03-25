@@ -1,3 +1,0 @@
-cert_business_id,station_code,issue_date,expiry_date,cert_type,issuing_agency
-CERT001,STA001,2025-01-01,2026-02-01,SAFETY,Authority A
-CERT002,STA002,2025-03-01,2026-01-10,SAFETY,Authority A
