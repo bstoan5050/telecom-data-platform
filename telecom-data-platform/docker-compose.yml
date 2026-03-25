@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: telecom_user
+      POSTGRES_PASSWORD: telecom_pass
+      POSTGRES_DB: telecom_db
+    ports:
+      - "5432:5432"
